@@ -1,0 +1,11 @@
+# Whitelist: track only C++ and Java sources (plus repo docs)
+*
+!*/
+!*.cpp
+!*.java
+!.gitignore
+!README.md
+
+# Excluded projects / folders
+springBoot/
+.dist/
